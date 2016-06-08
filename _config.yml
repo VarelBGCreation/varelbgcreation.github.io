@@ -14,6 +14,9 @@ paginate_path: "/page:num"
 rss_path: feed.xml
 tags_path: tag.html
 navigation:
+
+- text: Home
+  url: /   
 - text: About
   url: /about/
 - text: Archives

@@ -1,4 +1,4 @@
-/* @override 
+/* @override
 	http://localhost:4000/css/main.css */
 
 
@@ -33,6 +33,7 @@ h6 {
 header {
     padding-bottom: 20px;
     padding-top: 20px;
+    background-color: #0F0F0F;
 }
 header h1 {
     padding-top: 1em;
@@ -75,7 +76,7 @@ nav ul li {
 	font-size: 105%;
 }
 nav ul li a {
-    color: #324787;
+    color: #ffffff;
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
