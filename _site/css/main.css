@@ -68,6 +68,11 @@ nav {
 	margin-bottom: -20px;
 	margin-top: 15px;
 }
+nav img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 nav ul li {
     padding-top: 15px;
     padding-bottom: 15px;
