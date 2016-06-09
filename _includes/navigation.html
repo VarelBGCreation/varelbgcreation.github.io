@@ -6,10 +6,16 @@
     <div class="logo">
       <img src="/images/logo.png/" alt="" />
     </div>
+    {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url == link.url or page.layout == link.layout %}
+        {% assign current = 'current' %}
+      {% endif %}
 
       <li class="{{ current }}">
         <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
       </li>
+    {% endfor %}
   </ul>
 {% endunless %}
 
