@@ -2,18 +2,36 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/post/jek/</loc>
+      <loc>/post/How-to-make-a-Anroid-robot-in-Blender-Part-2/</loc>
       
-        <lastmod>2016-03-20T00:40:41+07:00</lastmod>
+        <lastmod>2016-06-04T20:31:07+07:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>/post/tes/</loc>
+      <loc>/post/How-to-make-a-Android-robot-in-Blender-Part-1/</loc>
       
-        <lastmod>2016-01-01T00:00:00+07:00</lastmod>
+        <lastmod>2016-06-04T20:31:07+07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/post/How-to-Make-Sun-Beams-in-Blender/</loc>
+      
+        <lastmod>2016-06-04T20:31:07+07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/post/How-to-install-Blender-in-Ubuntu-16.04/</loc>
+      
+        <lastmod>2016-06-03T20:31:07+07:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
