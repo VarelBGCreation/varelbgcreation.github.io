@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make a Flare in Blender"
-date:   2016-06-09 20:31:07 +0700
+date:   2016-06-07 20:31:07 +0700
 tags:   [blender, tutorial]
 ---
 

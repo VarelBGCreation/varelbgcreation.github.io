@@ -2,9 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>/post/How-to-make-a-flare-in-blender/</loc>
+      
+        <lastmod>2016-06-07T20:31:07+07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>/post/How-to-make-a-Anroid-robot-in-Blender-Part-2/</loc>
       
-        <lastmod>2016-06-04T20:31:07+07:00</lastmod>
+        <lastmod>2016-06-06T20:31:07+07:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -13,7 +22,7 @@
     <url>
       <loc>/post/How-to-make-a-Android-robot-in-Blender-Part-1/</loc>
       
-        <lastmod>2016-06-04T20:31:07+07:00</lastmod>
+        <lastmod>2016-06-05T20:31:07+07:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -37,6 +46,8 @@
       <priority>1.0</priority>
     </url>
   
+  
+    
   
     
   

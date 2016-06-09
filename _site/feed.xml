@@ -7,10 +7,19 @@
 		<atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to make a Flare in Blender</title>
+				<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UbBWB2QQp9Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				<pubDate>Tue, 07 Jun 2016 20:31:07 +0700</pubDate>
+				<link>http://localhost:3000/post/How-to-make-a-flare-in-blender/</link>
+				<guid isPermaLink="true">http://localhost:3000/post/How-to-make-a-flare-in-blender/</guid>
+			</item>
+		
+			<item>
 				<title>How to make a Android robot in Blender Part 2</title>
 				<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/awditZ0q9Tk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-				<pubDate>Sat, 04 Jun 2016 20:31:07 +0700</pubDate>
+				<pubDate>Mon, 06 Jun 2016 20:31:07 +0700</pubDate>
 				<link>http://localhost:3000/post/How-to-make-a-Anroid-robot-in-Blender-Part-2/</link>
 				<guid isPermaLink="true">http://localhost:3000/post/How-to-make-a-Anroid-robot-in-Blender-Part-2/</guid>
 			</item>
@@ -19,7 +28,7 @@
 				<title>How to make a Android Robot in Blender Part 1</title>
 				<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VWHn3NK0x-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-				<pubDate>Sat, 04 Jun 2016 20:31:07 +0700</pubDate>
+				<pubDate>Sun, 05 Jun 2016 20:31:07 +0700</pubDate>
 				<link>http://localhost:3000/post/How-to-make-a-Android-robot-in-Blender-Part-1/</link>
 				<guid isPermaLink="true">http://localhost:3000/post/How-to-make-a-Android-robot-in-Blender-Part-1/</guid>
 			</item>
