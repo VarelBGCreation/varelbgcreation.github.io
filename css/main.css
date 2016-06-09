@@ -60,6 +60,9 @@ header h1 a:hover {
 #current {
     background-color: #b91414;
 }
+.logo {
+  margin: 10px;
+}
 nav {
     font-weight: 200;
     font-family: -apple-system, Roboto, Helvetica, Arial;
