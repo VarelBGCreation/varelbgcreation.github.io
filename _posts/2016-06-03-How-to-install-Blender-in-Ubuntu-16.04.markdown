@@ -6,7 +6,7 @@ tags:   [console]
 ---
 
 Today i am going to show you guys how to install blender
-with PPA in ubuntu 16.04.
+ with PPA in ubuntu 16.04.
 
 {% highlight ruby %}
 
